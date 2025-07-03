@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bwhtkedkolglk"
+path="res://.godot/imported/spr_betta_fish_still_D_8_7.png-763a6959131597d29734f97816dc2998.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://ART/Characters/Betta fish/Idle/Down/spr_betta_fish_still_D_8_7.png"
+dest_files=["res://.godot/imported/spr_betta_fish_still_D_8_7.png-763a6959131597d29734f97816dc2998.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
